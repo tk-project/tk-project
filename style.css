@@ -141,7 +141,7 @@ li {
 }
 
 .headerimg {
-  background-image: url(img/pcimg.jpg);
+  background-image: url(img/pcimg-min.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
