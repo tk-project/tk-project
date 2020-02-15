@@ -968,6 +968,7 @@ label.hamburger {
 
 .service-container {
   padding: 0 5em 0 5em;
+  overflow: hidden;
 }
 
 .service-title {
