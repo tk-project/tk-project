@@ -157,7 +157,9 @@ $( () => {
         $('.js-modal').fadeOut();
         return false;
     }); 
-    // ドロワーメニュー
+
+});
+// ドロワーメニュー
 (function($) {
     $(function () {
       $('#nav-toggle').on('click', function() {
@@ -165,5 +167,3 @@ $( () => {
       });
     });
 })(jQuery);
-});
-
